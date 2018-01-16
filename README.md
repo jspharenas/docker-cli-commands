@@ -59,8 +59,9 @@ https://docs.docker.com/compose/reference/start/
 
 ### `docker-compose run`
 
-https://docs.docker.com/compose/reference/run/
+Runs a one-time command against a service.
 
+https://docs.docker.com/compose/reference/run/
 
 ### `docker-compose up`
 
