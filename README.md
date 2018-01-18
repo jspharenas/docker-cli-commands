@@ -35,7 +35,9 @@ https://docs.docker.com/engine/reference/commandline/start/
 
 ### `docker run`
 
-Runs a command on a container, but only after the initial steps performed behind the scenes (by this same command) of (1) creating a writeable container layer over the specified image and (2) starting the container.
+Runs a command on a container, but only after it performs the following actions behind the scenes:
+- Creating a writeable container layer over the specified image
+- Starting the container.
 
 https://docs.docker.com/engine/reference/commandline/run/
 
