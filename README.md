@@ -9,7 +9,7 @@ As I was just beginning, I was particularly confused with which CLI command to u
 
 What I found is that some commands perform just one type of action, while others combine multiple types of actions. This  provides the user the flexibility to perform tasks one at a time or all in one go. It depends entirely on each user’s strategy in creating containers/services.
 
-As a reference for myself myself and other Docker newbies, here’s a summary of Docker CLI commands that are used for  building, creating, starting, running images/containers/services.
+As a reference for myself and other Docker newbies, here’s a summary of Docker CLI commands that are used for  building, creating, starting, running images/containers/services.
 
 Please take note that the:
 - `docker` base command is used for single containers
