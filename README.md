@@ -49,7 +49,7 @@ https://docs.docker.com/compose/reference/build/
 
 ### `docker-compose create`
 
-This command is deprecated. Use the `up` command with `—no-start` instead.
+This command is deprecated. Use the `up` command with `--no-start` instead.
 
 https://docs.docker.com/compose/reference/create/
 
